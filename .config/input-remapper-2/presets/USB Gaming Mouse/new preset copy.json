@@ -1,0 +1,50 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 78,
+                "origin_hash": "7cb63d9e7720df3fccffa6e12edac68a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KP_Enter",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 62,
+                "origin_hash": "7cb63d9e7720df3fccffa6e12edac68a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "if_tap( modify(Control_L, key(c)) , key(KEY_F4))",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 63,
+                "origin_hash": "7cb63d9e7720df3fccffa6e12edac68a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "if_tap( modify(Control_L, key(v)) , key(KEY_F5))",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 88,
+                "origin_hash": "7cb63d9e7720df3fccffa6e12edac68a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "if_tap( modify(Super_L,key(a)) , key(KEY_F12))",
+        "mapping_type": "key_macro"
+    }
+]

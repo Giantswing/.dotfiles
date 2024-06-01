@@ -1,0 +1,10 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "MSFT0002:00 04F3:31AD Mouse": "new preset",
+        "Keychron K8": "basic",
+        "Keychron K8 Keychron K8": "basic",
+        "USB Gaming Mouse": "preset bueno",
+        "ITE Tech. Inc. ITE Device(8176) Keyboard": "basic"
+    }
+}
